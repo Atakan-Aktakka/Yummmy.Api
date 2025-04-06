@@ -51,7 +51,6 @@ C:\Users\ataka\Desktop\YummyApi\Yummmy.Api\bin\Debug\net9.0\Yummmy.Api.runtimeco
 C:\Users\ataka\Desktop\YummyApi\Yummmy.Api\bin\Debug\net9.0\Yummmy.Api.dll
 C:\Users\ataka\Desktop\YummyApi\Yummmy.Api\bin\Debug\net9.0\Yummmy.Api.pdb
 C:\Users\ataka\Desktop\YummyApi\Yummmy.Api\bin\Debug\net9.0\AutoMapper.dll
-C:\Users\ataka\Desktop\YummyApi\Yummmy.Api\bin\Debug\net9.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 C:\Users\ataka\Desktop\YummyApi\Yummmy.Api\bin\Debug\net9.0\Azure.Core.dll
 C:\Users\ataka\Desktop\YummyApi\Yummmy.Api\bin\Debug\net9.0\Azure.Identity.dll
 C:\Users\ataka\Desktop\YummyApi\Yummmy.Api\bin\Debug\net9.0\Humanizer.dll
@@ -206,3 +205,5 @@ C:\Users\ataka\Desktop\YummyApi\Yummmy.Api\obj\Debug\net9.0\staticwebassets.pack
 C:\Users\ataka\Desktop\YummyApi\Yummmy.Api\obj\Debug\net9.0\Yummmy.Api.csproj.Up2Date
 C:\Users\ataka\Desktop\YummyApi\Yummmy.Api\obj\Debug\net9.0\Yummmy.Api.genruntimeconfig.cache
 C:\Users\ataka\Desktop\YummyApi\Yummmy.Api\obj\Debug\net9.0\ref\Yummmy.Api.dll
+C:\Users\ataka\Desktop\YummyApi\Yummmy.Api\obj\Debug\net9.0\Yummmy.Api.sourcelink.json
+C:\Users\ataka\Desktop\YummyApi\Yummmy.Api\bin\Debug\net9.0\FluentValidation.dll

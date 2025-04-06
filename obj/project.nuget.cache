@@ -1,13 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "bNkuK9x1c8k=",
+  "dgSpecHash": "SzNbcwiHYG4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ataka\\Desktop\\YummyApi\\Yummmy.Api\\Yummmy.Api.csproj",
+  "projectFilePath": "c:\\Users\\ataka\\Desktop\\YummyApi\\Yummmy.Api\\Yummmy.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ataka\\.nuget\\packages\\automapper\\14.0.0\\automapper.14.0.0.nupkg.sha512",
-    "C:\\Users\\ataka\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
     "C:\\Users\\ataka\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\ataka\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
+    "C:\\Users\\ataka\\.nuget\\packages\\fluentvalidation\\11.11.0\\fluentvalidation.11.11.0.nupkg.sha512",
     "C:\\Users\\ataka\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\ataka\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.0\\microsoft.aspnetcore.openapi.9.0.0.nupkg.sha512",
     "C:\\Users\\ataka\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\7.0.0\\microsoft.bcl.asyncinterfaces.7.0.0.nupkg.sha512",
@@ -163,16 +163,5 @@
     "C:\\Users\\ataka\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\ataka\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1608",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Bağımlılık kısıtlaması dışında algılanan paket sürümü: AutoMapper.Extensions.Microsoft.DependencyInjection 12.0.1, AutoMapper (= 12.0.1) gerektiriyor ancak sürüm AutoMapper 14.0.0 çözümlenmiş.",
-      "libraryId": "AutoMapper",
-      "targetGraphs": [
-        "net9.0"
-      ]
-    }
-  ]
+  "logs": []
 }

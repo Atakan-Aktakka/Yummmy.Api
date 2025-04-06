@@ -3,13 +3,11 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Yummmy.Api.Entities
+namespace Yummmy.Api.Dtos.CategoryDtos
 {
-    public class Category
+    public class CategoryDto
     {
         public int CategoryId { get; set; }
         public string? CategoryName { get; set;}
-        public List<Product> Products { get; set; }
-
     }
 }
