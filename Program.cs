@@ -32,6 +32,7 @@ builder.Services.AddScoped<IValidator<Product>, ProductValidator>();
 builder.Services.AddDbContext<AppDbContext>(options =>
     options.UseNpgsql(connectionString));
 builder.Services.AddAutoMapper(Assembly.GetExecutingAssembly());
+builder.Services.AddHttpClient();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
