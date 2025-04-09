@@ -3,6 +3,7 @@
 using System.Reflection;
 using FluentValidation;
 using Microsoft.EntityFrameworkCore;
+using Newtonsoft.Json;
 using Yummmy.Api.Context;
 using Yummmy.Api.Entities;
 using Yummmy.Api.ValidationRules;
@@ -11,11 +12,12 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllers()
-    .AddJsonOptions(options =>
+    .AddNewtonsoftJson(options =>
     {
-        options.JsonSerializerOptions.ReferenceHandler = System.Text.Json.Serialization.ReferenceHandler.Preserve;
-        options.JsonSerializerOptions.WriteIndented = true;
+        options.SerializerSettings.ReferenceLoopHandling = ReferenceLoopHandling.Ignore;
+        options.SerializerSettings.PreserveReferencesHandling = PreserveReferencesHandling.None;
     });
+
 
 
 builder.Services.AddEndpointsApiExplorer();

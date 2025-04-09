@@ -207,3 +207,7 @@ C:\Users\ataka\Desktop\YummyApi\Yummmy.Api\obj\Debug\net9.0\Yummmy.Api.genruntim
 C:\Users\ataka\Desktop\YummyApi\Yummmy.Api\obj\Debug\net9.0\ref\Yummmy.Api.dll
 C:\Users\ataka\Desktop\YummyApi\Yummmy.Api\obj\Debug\net9.0\Yummmy.Api.sourcelink.json
 C:\Users\ataka\Desktop\YummyApi\Yummmy.Api\bin\Debug\net9.0\FluentValidation.dll
+C:\Users\ataka\Desktop\YummyApi\Yummmy.Api\bin\Debug\net9.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\ataka\Desktop\YummyApi\Yummmy.Api\bin\Debug\net9.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\ataka\Desktop\YummyApi\Yummmy.Api\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\ataka\Desktop\YummyApi\Yummmy.Api\bin\Debug\net9.0\Newtonsoft.Json.Bson.dll
